@@ -10,6 +10,6 @@ Pl.: Ha az Egyesült Államokban használt billentyűzet elrendezésével (us.js
 
 Ez a JSON fájl a HAK5 eredeti Ducky Encoder-hez használható, ami a https://docs.hak5.org/hc/en-us/articles/360010471234-Writing-your-first-USB-Rubber-Ducky-Payload címen belül, a tölthető le a JS Ducky Encoder bekezdésben. Más kódoló alkalmazások esetében más lehet az elrendezés típusa!
 
-A JSON fájl tartalmazza a bal Shift mellett található í betűre használt gombot is, ha nincs ilyen a billentyűzeteden, vagy a céleszköz billentyűzetén, akkor sincsen gond, mert a kis í betűt a Shift + j-vel, illetve a nagyot a Shift + i- kulcs kombinációval szintúgy el lehet érni.
+A JSON fájl tartalmazza a bal Shift mellett található í betűre használt gombot is, ha nincs ilyen a billentyűzeteden, vagy a céleszköz billentyűzetén, akkor sincsen gond, mert a kis í betűt a Shift + j-vel, illetve a nagyot a Shift + i kulcs kombinációval szintúgy el lehet érni.
 
 Ha átszeretnéd alakítani a billentyűzet elrendezést, akkor ahhoz megtalálod a megfelelő dokumentumok linkjét a JSON fájlban.
